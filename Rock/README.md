@@ -6,6 +6,9 @@ date modified: 2022-01-04 17:11:27
 
 # About These Notes
 
+This was copied from MichaelAllen/Rock-Code-Snippets.  Many updates are needed to scrub out Michael's stuff.  Admittedly I was just
+lazy and just simply forked his repo.
+
 These are mainly notes I have created for internal use. I am sharing them here in the hope that they may be helpful for someone, but I make no promises that they are error-free.
 
 If you have a question about any of these files, feel free to reach out to me on [Rocket Chat](https://chat.rockrms.org) @michaelallen.
